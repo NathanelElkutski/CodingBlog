@@ -24,7 +24,7 @@
 #welcome h2 {
 	font-size: 3.5rem;
 	margin: 0 0 0 2rem;
-	color: #e4e4e4;
+	color: #212525;
 	width: 10rem;
 }
 
@@ -61,7 +61,7 @@
 #about {
 	text-align: center;
 	padding: 3rem;
-	background-color: #e48900;
+	background-color: #65d1ff28;
 	margin-top: 5rem;
 }
 

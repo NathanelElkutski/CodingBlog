@@ -39,7 +39,8 @@ h3 {
 
 #main-navigation a:hover,
 #main-navigation a:active {
-	color: #20bdff;
+	border-radius: 16px;
+	color: #308af1;
 }
 
 #main-navigation h1 a:hover,
